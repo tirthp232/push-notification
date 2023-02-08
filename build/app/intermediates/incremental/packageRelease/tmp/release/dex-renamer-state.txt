@@ -1,0 +1,4 @@
+#Fri Jan 13 12:53:02 IST 2023
+base.0=/Users/mac/Downloads/Flutter Project/push_noti/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
